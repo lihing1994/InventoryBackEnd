@@ -18,4 +18,5 @@ In order to run this project propriety, following are the recommended setting fo
 ## Run the project
 - Step1. Import the spring boot project to your VS Code. You may refer the **[link](https://www.youtube.com/watch?v=XJeT0ErXBHo)** to see how to import the project to VS Code and run it. 
 - Step2. Import the SQL database to your MySQL workbench. You may refer the **[link](https://www.youtube.com/watch?v=Jvul-wr-_Bg)** to see the details how to import the SQL database to your MySQL Workbench
-- Step3. Open the project and find the **application.properties** file under the resource folder. Then, change the **user name** and **password** corresponding to the setting in your system.(i.e, user name and password for your MySQL server)
+- Step3. Open the project and find the **application.properties** file under the resource folder. Then, change the **user name** and **password** corresponding to the setting in your system.(i.e, user name and password for your MySQL server)![Screen Shot 2022-01-19 at 6 17 35 PM](https://user-images.githubusercontent.com/25276186/150259565-e76307f3-79e7-4544-ad6e-b00707ece3c1.png)
+
