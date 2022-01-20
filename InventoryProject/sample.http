@@ -1,0 +1,41 @@
+
+### List all the inventory
+GET http://localhost:8080/api/get/all
+
+
+### Get inventory by Id
+GET http://localhost:8080/api/get/1
+
+### Get inventory by Id
+GET http://localhost:8080/api/get/2
+
+### Creat a inventory 
+POST http://localhost:8080/api/creat
+content-type: application/json
+{
+    "id": 11,
+    "name" : "Organic Beef New",
+    "unitedPrice": 4.45,
+    "quantity": 10,
+    "location": "Burbank,CA",
+    "status": "Completed"
+}
+
+### Edit a inventory
+PUT http://localhost:8080/api/addOrUpdate/
+content-type: application/json
+
+{
+    "id": 12,
+    "name" : "Organic Milk",
+    "unitedPrice": 3.39,
+    "quantity": 30,
+    "location": "Burbank,CA",
+    "status": "Completed"
+}
+
+### Delete a inventory by Id
+DELETE http://localhost:8080/api/delete/1
+
+### Output a CVS file for inventories
+GET http://localhost:8080/api/download
