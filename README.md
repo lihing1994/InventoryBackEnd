@@ -22,4 +22,3 @@ In order to run this project propriety, following are the recommended setting fo
 
 ## Functionality
 - Now you may go to the **sample.http** file under the project folder and check each functionality of the back-end by clicking the **send request** on top of each RESTful APIs.![Screen Shot 2022-01-19 at 6 27 02 PM](https://user-images.githubusercontent.com/25276186/150261257-52f42ebd-9fed-41df-a7b1-d41412ee0621.png)
- 
